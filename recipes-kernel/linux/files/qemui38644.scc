@@ -1,0 +1,4 @@
+kconf hardware qemui38644.cfg
+
+kconf hardware qemui38644-user-config.cfg
+include qemui38644-user-patches.scc

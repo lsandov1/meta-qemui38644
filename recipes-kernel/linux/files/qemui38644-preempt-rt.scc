@@ -1,0 +1,9 @@
+define KMACHINE qemui38644
+
+define KARCH i386
+
+include ktypes/preempt-rt/preempt-rt.scc
+define KTYPE standard/base
+branch qemui38644
+
+include qemui38644.scc
